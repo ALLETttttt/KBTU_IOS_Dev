@@ -1,5 +1,3 @@
-import UIKit
-
 var firstName: String = "Bakdaulet"
 var lastName: String = "Alaidar"
 var age: Int = 20
