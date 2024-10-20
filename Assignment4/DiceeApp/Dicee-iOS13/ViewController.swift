@@ -33,25 +33,25 @@ class ViewController: UIViewController {
     }
     
     // Function to roll the dice
-        func rollDice() {
-            var randomIndex1 = Int.random(in: 0...5)
-            var randomIndex2 = Int.random(in: 0...5)
+    func rollDice() {
+        var randomIndex1 = Int.random(in: 0...5)
+        var randomIndex2 = Int.random(in: 0...5)
             
-            // Ensure that the two dice images are not the same
-            while randomIndex1 == randomIndex2 {
-                randomIndex2 = Int.random(in: 0...5)
-            }
-
-            diceImageView1.image = diceImages[randomIndex1]
-            diceImageView2.image = diceImages[randomIndex2]
+        // Ensure that the two dice images are not the same
+        while randomIndex1 == randomIndex2 {
+            randomIndex2 = Int.random(in: 0...5)
         }
 
-        // Bonus Challenge: Detect shake gesture to roll the dice
-        override func motionEnded(_ motion: UIEvent.EventSubtype, with event: UIEvent?) {
-            if motion == .motionShake {
-                rollDice()
-            }
+        diceImageView1.image = diceImages[randomIndex1]
+        diceImageView2.image = diceImages[randomIndex2]
+    }
+
+    // Bonus Challenge: Detect shake gesture to roll the dice
+    override func motionEnded(_ motion: UIEvent.EventSubtype, with event: UIEvent?) {
+        if motion == .motionShake {
+            rollDice()
         }
+    }
     
     
 }
