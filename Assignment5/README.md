@@ -13,6 +13,5 @@ Alaidar Bakdaulet
 
 ## Demo
 
-
-https://github.com/user-attachments/assets/9c065b3a-052d-4d5a-a65d-94b156858e10
+https://github.com/user-attachments/assets/458e4209-329c-4c1c-b3de-1ffe62d4786a
 
