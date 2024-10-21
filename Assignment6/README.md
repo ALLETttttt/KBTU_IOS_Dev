@@ -16,3 +16,7 @@ Alaidar Bakdaulet
 https://github.com/user-attachments/assets/1049be3c-7850-4c35-9d4c-b72843a30031
 
 
+
+
+https://github.com/user-attachments/assets/7b775d50-f857-4249-a4f1-31923ddc4928
+
