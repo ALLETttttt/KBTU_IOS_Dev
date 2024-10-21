@@ -1,7 +1,7 @@
 # Xylophone App
 
 ## Author
-John Doe
+Alaidar Bakdaulet
 
 ## Instructions
 1. Open the project in Xcode.
@@ -11,4 +11,7 @@ John Doe
 ## Optional Features
 - Added a visual feedback animation when a button is pressed.
 
-Alaidar Bakdaulet
+## Demo
+
+https://github.com/user-attachments/assets/f3171ac6-a6b8-4d70-9aea-482051ebad46
+
