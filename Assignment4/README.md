@@ -13,5 +13,5 @@
 
 ### Demo
 
-[https://github.com/user-attachments/assets/your-dice-app-demo-link](https://github.com/user-attachments/assets/your-dice-app-demo-link)
+https://github.com/user-attachments/assets/379384bd-11d2-4c5a-8423-828d40c44252
 
