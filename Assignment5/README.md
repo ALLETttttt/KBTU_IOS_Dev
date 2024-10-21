@@ -13,5 +13,4 @@ Alaidar Bakdaulet
 
 ## Demo
 
-[https://github.com/ALLETttttt/KBTU_IOS_Dev/blob/main/Assignment5/Simulator%20Screen%20Recording%20-%20iPhone%2015%20Pro%20-%202024-10-21%20at%2016.39.48.mp4](https://github.com/ALLETttttt/KBTU_IOS_Dev/blob/main/Assignment5/Simulator%20Screen%20Recording%20-%20iPhone%2015%20Pro%20-%202024-10-21%20at%2016.39.48.mp4)
-
+see
