@@ -96,7 +96,6 @@
 		71EB95E62CC4F413003D7EF0 = {
 			isa = PBXGroup;
 			children = (
-				71EB96252CC4F5E2003D7EF0 /* Sounds */,
 				71EB95F12CC4F413003D7EF0 /* xylophone */,
 				71EB960B2CC4F414003D7EF0 /* xylophoneTests */,
 				71EB96152CC4F414003D7EF0 /* xylophoneUITests */,
@@ -117,6 +116,7 @@
 		71EB95F12CC4F413003D7EF0 /* xylophone */ = {
 			isa = PBXGroup;
 			children = (
+				71EB96252CC4F5E2003D7EF0 /* Sounds */,
 				71EB95F22CC4F413003D7EF0 /* AppDelegate.swift */,
 				71EB95F42CC4F413003D7EF0 /* SceneDelegate.swift */,
 				71EB95F62CC4F413003D7EF0 /* ViewController.swift */,
@@ -158,7 +158,8 @@
 				71EB96272CC4F638003D7EF0 /* F.wav */,
 				71EB96282CC4F638003D7EF0 /* G.wav */,
 			);
-			path = Sounds;
+			name = Sounds;
+			path = ../Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
