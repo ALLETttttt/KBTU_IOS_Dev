@@ -2,17 +2,6 @@
 
 # MyFavoritesCollection
 
-## Project Description
-"MyFavoritesCollection" is an iOS application that displays a collection of favorite books using `UICollectionView`. This project demonstrates the use of `UICollectionView` with custom `UICollectionViewCell` to present book covers and details in a visually organized layout.
-
-## Chosen Theme: Favorite Books
-This application focuses on a collection of favorite books. Each cell in the collection view displays:
-- **Book Cover**: An image representing the book's cover.
-- **Title**: The title of the book.
-- **Author**: The author of the book.
-- **Genre**: The genre to which the book belongs.
-
-This theme allows users to browse a list of classic and popular books with essential details.
 
 ## Screenshots
 
