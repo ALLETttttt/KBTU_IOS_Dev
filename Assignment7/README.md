@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/d9ccadb5-c875-40dc-9ac5-26ea4ac7002c
 
 
 
-<img src="https://github.com/user-attachments/assets/d9ccadb5-c875-40dc-9ac5-26ea4ac7002c" alt="Simulator Screenshot" width="200"/>
+<img src="https://github.com/user-attachments/assets/d9ccadb5-c875-40dc-9ac5-26ea4ac7002c" width="200"/>
 
 
 
