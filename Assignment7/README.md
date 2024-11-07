@@ -18,8 +18,6 @@ This theme allows users to browse a list of classic and popular books with essen
 
 https://github.com/user-attachments/assets/5e5a13ee-1f91-4d2a-b80c-69957ac0ebe9
 
-<img src="https://github.com/user-attachments/assets/5e5a13ee-1f91-4d2a-b80c-69957ac0ebe9" width="200"/>
-
 
 
 
