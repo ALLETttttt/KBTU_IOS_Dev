@@ -11,4 +11,7 @@ struct Car {
     let title: String
     let imageName: UIImage
     let rating: String
+    let description: String
+    let mileadge: String
+    let engineType: String
 }

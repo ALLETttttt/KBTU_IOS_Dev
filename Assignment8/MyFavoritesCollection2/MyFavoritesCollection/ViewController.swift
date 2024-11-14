@@ -12,22 +12,26 @@ class ViewController: UIViewController {
     @IBOutlet weak var tableView: UITableView!
     
     let data: [Car] = [
-        Car(title: "Mercedes", imageName: UIImage(named: "mercedes-e-class")!, rating: "Rating: 5"),
-        Car(title: "Audi", imageName: UIImage(named: "audi")!, rating: "Rating: 5"),
-        Car(title: "Bentley", imageName: UIImage(named: "bentley")!, rating: "Rating: 7"),
-        Car(title: "BMW", imageName: UIImage(named: "bmw")!, rating: "Rating: 6"),
-        Car(title: "Ferrari", imageName: UIImage(named: "ferrari")!, rating: "Rating: 9"),
-        Car(title: "Hyundai", imageName: UIImage(named: "hyundai")!, rating: "Rating: 4"),
-        Car(title: "Kia", imageName: UIImage(named: "kia")!, rating: "Rating: 4"),
-        Car(title: "Lexus", imageName: UIImage(named: "lexus")!, rating: "Rating: 5"),
-        Car(title: "Porsche", imageName: UIImage(named: "porsche")!, rating: "Rating: 7"),
-        Car(title: "Range Rover", imageName: UIImage(named: "range_rover")!, rating: "Rating: 6"),
+        Car(title: "Mercedes", imageName: UIImage(named: "mercedes-e-class")!, rating: "Rating: 5", description: "", mileadge: "", engineType: ""),
+        Car(title: "Audi", imageName: UIImage(named: "audi")!, rating: "Rating: 5", description: "", mileadge: "", engineType: ""),
+        Car(title: "Bentley", imageName: UIImage(named: "bentley")!, rating: "Rating: 7", description: "", mileadge: "", engineType: ""),
+        Car(title: "BMW", imageName: UIImage(named: "bmw")!, rating: "Rating: 6", description: "", mileadge: "", engineType: ""),
+        Car(title: "Ferrari", imageName: UIImage(named: "ferrari")!, rating: "Rating: 9", description: "", mileadge: "", engineType: ""),
+        Car(title: "Hyundai", imageName: UIImage(named: "hyundai")!, rating: "Rating: 4", description: "", mileadge: "", engineType: ""),
+        Car(title: "Kia", imageName: UIImage(named: "kia")!, rating: "Rating: 4", description: "", mileadge: "", engineType: ""),
+        Car(title: "Lexus", imageName: UIImage(named: "lexus")!, rating: "Rating: 5", description: "", mileadge: "", engineType: ""),
+        Car(title: "Porsche", imageName: UIImage(named: "porsche")!, rating: "Rating: 7", description: "", mileadge: "", engineType: ""),
+        Car(title: "Range Rover", imageName: UIImage(named: "range_rover")!, rating: "Rating: 6", description: "", mileadge: "", engineType: ""),
     ]
     
     override func viewDidLoad() {
         super.viewDidLoad()
         tableView.dataSource = self
         tableView.delegate = self
+    }
+    
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        <#code#>
     }
 }
 
