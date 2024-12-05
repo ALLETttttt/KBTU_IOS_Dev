@@ -55,7 +55,9 @@ A simple and engaging iOS app that fetches and displays random superhero profile
 
 ## 🖥️ Screenshots
 
-https://github.com/user-attachments/assets/c5599ba7-a479-47c9-a663-5be2ce9a8155
+https://github.com/user-attachments/assets/11c44003-8122-4d55-84f4-53f3c8c81415
+
+
 
 
 ### Home Screen
